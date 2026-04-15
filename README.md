@@ -1,9 +1,4 @@
-## 📑 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Week 1 Plan](#week-1-plan)
-- [Day 1 – Structure](#day-1--structure)
-- [Day 2 – Virtual Environment](#day-2--virtual-environment)
 ---
 # 🚀 Northwind Tech Oy Project
 
